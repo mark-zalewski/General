@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T21:44:17.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="Qm4AsgzZZUzKXXR0GVhR" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T21:45:53.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="eirW0qnc2yIjkEoEvQsZ" version="23.0.2" type="github">
   <diagram name="Page-1" id="YtKWClYYP15dUkpFgDLi">
     <mxGraphModel dx="1700" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2.5" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -153,6 +153,14 @@
         </mxCell>
         <mxCell id="NdRNJCVhxR-TxfGLDdOu-145" value="Homarr" style="swimlane;" parent="NdRNJCVhxR-TxfGLDdOu-46" vertex="1">
           <mxGeometry x="140" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dvumnpME3IVE-jwvY0Rz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NdRNJCVhxR-TxfGLDdOu-46" source="dvumnpME3IVE-jwvY0Rz-39" target="NdRNJCVhxR-TxfGLDdOu-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="230" />
+              <mxPoint x="630" y="638" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dvumnpME3IVE-jwvY0Rz-39" value="Watchtower" style="swimlane;" vertex="1" parent="NdRNJCVhxR-TxfGLDdOu-46">
           <mxGeometry x="700" y="210" width="170" height="40" as="geometry" />
